@@ -15,7 +15,7 @@ Summer Internship Submission (AY 2026-27)
 ### 🏢 Internship Details
 - **Organization Name**: Amroha Police Cyber Security Internship
 - **Role**: Cyber Security Intern  
-- **Duration**: 10 Days (Summer 2026)  
+- **Duration**: Summer 2026  
 
 ---
 ### 🛠️ Key Technologies & Training Coverage
@@ -27,8 +27,7 @@ Summer Internship Submission (AY 2026-27)
 This repository contains the required evaluation documents per IILM University guidelines:
 
 📄 Internship Report (PDF): Internship_Report.pdf
-Includes Cover Page, Candidate Declaration, Acknowledgement, Table of Contents, [ADD YOUR SECTIONS HERE]
 📜 Internship Completion Certificate (PDF): Internship_Completion_Certificate.pdf
-✉️ Internship Offer Letter (PDF): Internship_Offer_Letter.pdf (if applicable — remove if not)
+✉️ Internship Offer Letter (PDF): Internship_Offer_Letter.pdf
 
 Submitted in partial fulfillment of the requirements for the degree of B.Tech Computer Science and Engineering at IILM University, Greater Noida.
