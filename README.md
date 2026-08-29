@@ -26,8 +26,10 @@ Summer Internship Submission (AY 2026-27)
 
 This repository contains the required evaluation documents per IILM University guidelines:
 
-📄 Internship Report (PDF): Internship_Report.pdf
-📜 Internship Completion Certificate (PDF): Internship_Completion_Certificate.pdf
-✉️ Internship Offer Letter (PDF): Internship_Offer_Letter.pdf
+- 📄 Internship Report (PDF): Internship_Report.pdf
+- 📜 Internship Completion Certificate (PDF): Internship_Completion_Certificate.pdf
+- ✉️ Internship Offer Letter (PDF): Internship_Offer_Letter.pdf
 
-Submitted in partial fulfillment of the requirements for the degree of B.Tech Computer Science and Engineering at IILM University, Greater Noida.
+
+Submitted in partial fulfillment of the requirements for the degree of.  
+B.Tech Computer Science and Engineering at IILM University, Greater Noida.
