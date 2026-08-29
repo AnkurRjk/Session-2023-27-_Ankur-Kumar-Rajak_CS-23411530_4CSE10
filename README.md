@@ -1,4 +1,4 @@
-# Session-2023-27-_Ankur-Kumar-Rajak_CS-23411530_4CSE10
+# Ankur-Kumar-Rajak_CS-23411530_4CSE10_Session-2023-27-
 This repo is use to reflect my Internship
 Summer Internship Submission (AY 2026-27)
 
